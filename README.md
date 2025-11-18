@@ -36,9 +36,9 @@ STEP 9: We demonstrate the model's practical use by randomly selecting and testi
 
 ### PROGRAM
 
-**Name:Dhanush G**
+**Name:Aravindan T**
 
-**Register Number:2305002006**
+**Register Number:2305001003**
 
 ~~~
 import tensorflow as tf
@@ -201,6 +201,3 @@ Training Loss, Validation Loss Vs Iteration Plot
 ### RESULT
 
 The model's performance is evaluated through training and testing, and it shows potential for assisting healthcare professionals in diagnosing malaria more efficiently and accurately
-
-
-
